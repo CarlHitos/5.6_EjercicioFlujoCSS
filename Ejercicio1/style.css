@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(39, 198, 148);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#title {
+    margin-left: 20px;
+    color: #fff;
+}
+
+#botones {
+    margin-right: 20px;
+}
+
+button {
+    margin-left: 15px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: none;
+    color: green;
+}
